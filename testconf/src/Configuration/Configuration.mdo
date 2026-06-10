@@ -40,4 +40,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
 </mdclass:Configuration>
